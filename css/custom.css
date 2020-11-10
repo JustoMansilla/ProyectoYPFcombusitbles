@@ -10,20 +10,36 @@
 
 @font-face {
 	font-family: 'AlteDIN1451Mittelschrift';
-	src: url('AlteDIN1451Mittelschrift.svg#AlteDIN1451Mittelschrift') format('svg'),
-		 url('AlteDIN1451Mittelschrift.ttf') format('truetype'),
-		 url('AlteDIN1451Mittelschrift.woff') format('woff');
+	src: url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/AlteDIN1451Mittelschrift.svg') format('svg'),
+		 url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/AlteDIN1451Mittelschrift.ttf') format('truetype'),
+		 url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/AlteDIN1451Mittelschrift.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
   }
   
   @font-face {
 	font-family: 'din1451alt';
-	src: url('din1451alt.eot');
-	src: url('din1451alt.eot?#iefix') format('embedded-opentype'),
-		 url('din1451alt.woff2') format('woff2');
+	src: url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/din1451alt.eot');
+	src: url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/din1451alt.eot) format('embedded-opentype'),
+		 url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/din1451alt.woff2') format('woff2');
 	font-weight: normal;
 	font-style: normal;
   }
   
+  @font-face {
+	font-family: 'DIN-Regular';
+	src: url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/DIN-Regular.svg') format('svg'),
+		 url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/DIN-Regular.ttf') format('truetype'),
+		 url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/DIN-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  }
   
+  @font-face {
+	font-family: 'DINRegular';
+	src: url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/DINRegular.eot');
+	src: url('DINRegular.eot?#iefix') format('embedded-opentype'),
+		 url('/Users/justomansilla/Dropbox/My Mac (Justo’s MacBook Pro)/Desktop/ProyectoYPFtoptier/fonts/DINRegular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+  }
